@@ -68,21 +68,8 @@ Complete the following steps:
 
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
-    ![hw](https://static.bc-edx.com/data/dl-1-2/m14/lms/img/hw02.jpg)
 
-7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
-### Advanced Challenge Assignment (Optional with no extra points earning)
-
-The following task is advanced and therefore optional.
-
-* Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
-
-* You will need to modify the example gauge code to account for values ranging from 0 through 9.
-
-* Update the chart whenever a new sample is selected.
-
-  ![Weekly Washing Frequency Gauge](https://static.bc-edx.com/data/dl-1-2/m14/lms/img/gauge.jpg)
 
 ### Hints
 
